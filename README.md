@@ -1,6 +1,6 @@
 # Hi, I'm Meron Mulugeta 👋
 
-**Third-Year Computer Science Student | Aspiring Full Stack Developer | AI Enthusiast**
+**Fourth-Year Computer Science Student | Full Stack Developer | AI Enthusiast**
 
 I’m a Computer Science student who enjoys building practical web projects, exploring AI technologies, and continuously improving my development and problem-solving skills.
 
